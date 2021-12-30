@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Fredoka+One&family=Pacifico&family=Press+Start+2P&display=swap');
+
+h1{
+    font-family: 'Press Start 2P';
+    background-color: lime;
+}
+
+p{
+    font-family: 'Pacifico';
+}
+
+em{
+    font-family: 'Chelsea Market';
+    font-weight: bold;
+    text-shadow: 1px -1px crimson;
+}
+
+a, strong{
+    font-family: 'Fredoka';
+    font-size: x-small;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
